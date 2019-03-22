@@ -1,0 +1,9 @@
+D:\TicTacToe\NodeCounter\bin\Debug\netstandard2.0\NodeCounter.deps.json
+D:\TicTacToe\NodeCounter\bin\Debug\netstandard2.0\NodeCounter.dll
+D:\TicTacToe\NodeCounter\bin\Debug\netstandard2.0\NodeCounter.pdb
+D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.csprojAssemblyReference.cache
+D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.csproj.CoreCompileInputs.cache
+D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.AssemblyInfoInputs.cache
+D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.AssemblyInfo.cs
+D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.dll
+D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.pdb

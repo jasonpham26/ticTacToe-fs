@@ -1,0 +1,11 @@
+D:\TicTacToe\GameTheory\bin\Debug\netstandard2.0\GameTheory.deps.json
+D:\TicTacToe\GameTheory\bin\Debug\netstandard2.0\GameTheory.dll
+D:\TicTacToe\GameTheory\bin\Debug\netstandard2.0\GameTheory.pdb
+D:\TicTacToe\GameTheory\bin\Debug\netstandard2.0\NodeCounter.dll
+D:\TicTacToe\GameTheory\bin\Debug\netstandard2.0\NodeCounter.pdb
+D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsprojAssemblyReference.cache
+D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfoInputs.cache
+D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfo.fs
+D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsproj.CopyComplete
+D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.dll
+D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.pdb
