@@ -9,3 +9,14 @@ D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfo.fs
 D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsproj.CopyComplete
 D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.dll
 D:\TicTacToe\GameTheory\obj\Debug\netstandard2.0\GameTheory.pdb
+C:\Workspace\ticTacToe-fs\GameTheory\bin\Debug\netstandard2.0\GameTheory.deps.json
+C:\Workspace\ticTacToe-fs\GameTheory\bin\Debug\netstandard2.0\GameTheory.dll
+C:\Workspace\ticTacToe-fs\GameTheory\bin\Debug\netstandard2.0\GameTheory.pdb
+C:\Workspace\ticTacToe-fs\GameTheory\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Workspace\ticTacToe-fs\GameTheory\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Workspace\ticTacToe-fs\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsprojAssemblyReference.cache
+C:\Workspace\ticTacToe-fs\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfoInputs.cache
+C:\Workspace\ticTacToe-fs\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfo.fs
+C:\Workspace\ticTacToe-fs\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsproj.CopyComplete
+C:\Workspace\ticTacToe-fs\GameTheory\obj\Debug\netstandard2.0\GameTheory.dll
+C:\Workspace\ticTacToe-fs\GameTheory\obj\Debug\netstandard2.0\GameTheory.pdb

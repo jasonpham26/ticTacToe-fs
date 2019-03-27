@@ -7,3 +7,12 @@ D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.AssemblyInfoInputs
 D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.AssemblyInfo.cs
 D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.dll
 D:\TicTacToe\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.pdb
+C:\Workspace\ticTacToe-fs\NodeCounter\bin\Debug\netstandard2.0\NodeCounter.deps.json
+C:\Workspace\ticTacToe-fs\NodeCounter\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Workspace\ticTacToe-fs\NodeCounter\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Workspace\ticTacToe-fs\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.csprojAssemblyReference.cache
+C:\Workspace\ticTacToe-fs\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.csproj.CoreCompileInputs.cache
+C:\Workspace\ticTacToe-fs\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.AssemblyInfoInputs.cache
+C:\Workspace\ticTacToe-fs\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.AssemblyInfo.cs
+C:\Workspace\ticTacToe-fs\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.dll
+C:\Workspace\ticTacToe-fs\NodeCounter\obj\Debug\netstandard2.0\NodeCounter.pdb

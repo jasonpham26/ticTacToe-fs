@@ -701,7 +701,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -1079,12 +1079,11 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
-      "sha512": "hQjC+dSe1rBacyz3Qh4hooO4bWhG3/pzIL4bsMHPsLCWAQ5xfNYIuB7sU7pVZSV2v/p7DcrX6U7qAjZKJSaigg==",
+      "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2664,23 +2663,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tinph\\.nuget\\packages\\": {},
+    "C:\\Users\\Tin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TicTacToe\\TicTacToeViewModel\\TicTacToeViewModel.csproj",
+      "projectUniqueName": "C:\\Workspace\\ticTacToe-fs\\TicTacToeViewModel\\TicTacToeViewModel.csproj",
       "projectName": "TicTacToeViewModel",
-      "projectPath": "D:\\TicTacToe\\TicTacToeViewModel\\TicTacToeViewModel.csproj",
-      "packagesPath": "C:\\Users\\tinph\\.nuget\\packages\\",
-      "outputPath": "D:\\TicTacToe\\TicTacToeViewModel\\obj\\",
+      "projectPath": "C:\\Workspace\\ticTacToe-fs\\TicTacToeViewModel\\TicTacToeViewModel.csproj",
+      "packagesPath": "C:\\Users\\Tin\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\ticTacToe-fs\\TicTacToeViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\tinph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2693,14 +2692,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\TicTacToe\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj": {
-              "projectPath": "D:\\TicTacToe\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj"
+            "C:\\Workspace\\ticTacToe-fs\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj": {
+              "projectPath": "C:\\Workspace\\ticTacToe-fs\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj"
             },
-            "D:\\TicTacToe\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj": {
-              "projectPath": "D:\\TicTacToe\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj"
+            "C:\\Workspace\\ticTacToe-fs\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj": {
+              "projectPath": "C:\\Workspace\\ticTacToe-fs\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj"
             },
-            "D:\\TicTacToe\\NodeCounter\\NodeCounter.csproj": {
-              "projectPath": "D:\\TicTacToe\\NodeCounter\\NodeCounter.csproj"
+            "C:\\Workspace\\ticTacToe-fs\\NodeCounter\\NodeCounter.csproj": {
+              "projectPath": "C:\\Workspace\\ticTacToe-fs\\NodeCounter\\NodeCounter.csproj"
             }
           }
         }

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\TicTacToe\TicTacToeWPF\obj\Debug\
+C:\Workspace\ticTacToe-fs\TicTacToeWPF\obj\Debug\
 QUT
 none
 false
 DEBUG;TRACE
-D:\TicTacToe\TicTacToeWPF\TicTacToeApp.xaml
+C:\Workspace\ticTacToe-fs\TicTacToeWPF\TicTacToeApp.xaml
 2-1741291772
 
 61353117549
-128-1675124340
+1282033987619
 Views\TicTacToeMainWindow.xaml;Views\TicTacToeSquare.xaml;
 
 False

@@ -12,3 +12,17 @@ D:\TicTacToe\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModel
 D:\TicTacToe\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CopyComplete
 D:\TicTacToe\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.dll
 D:\TicTacToe\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.pdb
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.deps.json
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.dll
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.pdb
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csprojAssemblyReference.cache
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CoreCompileInputs.cache
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.AssemblyInfoInputs.cache
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.AssemblyInfo.cs
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CopyComplete
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.dll
+C:\Workspace\ticTacToe-fs\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.pdb

@@ -37,16 +37,23 @@ namespace QUT
 
         // Returns a sequence containing all of the lines on the board: Horizontal, Vertical and Diagonal
         // The number of lines returned should always be (size*2+2)
-        // the number of squares in each line (represented by (row,column) coordinates) should always be equal to size
+        // the nu                                                                                                                                                                                                                                           mber of squares in each line (represented by (row,column) coordinates) should always be equal to size
         // For example, if the input size = 2, then the output would be: 
         //     seq [seq[(0,0);(0,1)];seq[(1,0);(1,1)];seq[(0,0);(1,0)];seq[(0,1);(1,1)];seq[(0,0);(1,1)];seq[(0,1);(1,0)]]
         // The order of the lines and the order of the squares within each line does not matter
-        let Lines (size:int) : seq<seq<int*int>> = raise (System.NotImplementedException("Lines"))
+        let Lines (size:int) : seq<seq<int*int>> = 
+            seq { for row in 0 .. size - 1 do
+                    yield seq { for col in 0 .. size - 1 -> row, col }
+                    yield seq { for col in 0 .. size - 1 -> col, row }
+                    yield seq { yield row, row}
+                    yield seq { yield row, size - row - 1}
+                }
+            
 
         // Checks a single line (specified as a sequence of (row,column) coordinates) to determine if one of the players
         // has won by filling all of those squares, or a Draw if the line contains at least one Nought and one Cross
         let CheckLine (game:GameState) (line:seq<int*int>) : TicTacToeOutcome<Player> = raise (System.NotImplementedException("CheckLine"))
-
+            
         let GameOutcome game = raise (System.NotImplementedException("GameOutcome"))
 
         let GameStart (firstPlayer:Player) size = raise (System.NotImplementedException("GameStart"))

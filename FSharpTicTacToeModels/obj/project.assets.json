@@ -167,7 +167,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -334,23 +334,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tinph\\.nuget\\packages\\": {},
+    "C:\\Users\\Tin\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TicTacToe\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj",
+      "projectUniqueName": "C:\\Workspace\\ticTacToe-fs\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj",
       "projectName": "FSharpTicTacToeModels",
-      "projectPath": "D:\\TicTacToe\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj",
-      "packagesPath": "C:\\Users\\tinph\\.nuget\\packages\\",
-      "outputPath": "D:\\TicTacToe\\FSharpTicTacToeModels\\obj\\",
+      "projectPath": "C:\\Workspace\\ticTacToe-fs\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj",
+      "packagesPath": "C:\\Users\\Tin\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\ticTacToe-fs\\FSharpTicTacToeModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\tinph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -363,11 +363,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\TicTacToe\\GameTheory\\GameTheory.fsproj": {
-              "projectPath": "D:\\TicTacToe\\GameTheory\\GameTheory.fsproj"
+            "C:\\Workspace\\ticTacToe-fs\\GameTheory\\GameTheory.fsproj": {
+              "projectPath": "C:\\Workspace\\ticTacToe-fs\\GameTheory\\GameTheory.fsproj"
             },
-            "D:\\TicTacToe\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj": {
-              "projectPath": "D:\\TicTacToe\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj"
+            "C:\\Workspace\\ticTacToe-fs\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj": {
+              "projectPath": "C:\\Workspace\\ticTacToe-fs\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj"
             }
           }
         }
